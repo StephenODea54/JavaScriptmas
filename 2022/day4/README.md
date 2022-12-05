@@ -8,5 +8,14 @@ The function should also remove an exclamation point
 at the end of the sentence, if there is one. 
 
 Example 
-input: `"The KITTENS are SLEEPING!"`
-output: `"shh... the kittens are sleeping"`
+input:
+
+```js
+"The KITTENS are SLEEPING!"
+```
+
+output:
+
+```js
+"shh... the kittens are sleeping"
+```
