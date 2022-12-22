@@ -7,5 +7,4 @@ Our restaurant has 20 tables and the staff serves 2 tables at a time. They need 
 `<div class="table">TABLE VALUE HERE</div>`. 
 3. Remember to remove the commas after applying map()
 4. Fetch the tables <section> from the DOM 
-5. Set the innerHTML content of the tables <section> 
-to the displayTables function call.
+5. Set the innerHTML content of the tables <section> to the displayTables function call.
